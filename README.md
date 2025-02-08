@@ -1,7 +1,5 @@
 # photo-shop-mern
 
-Here is the README file in code format:
-
 ```md
 # Photo Editing Website
 
