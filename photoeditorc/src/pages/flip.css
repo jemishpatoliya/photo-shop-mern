@@ -1,0 +1,8 @@
+.flip{
+    background: rgb(245,246,247);
+    background: linear-gradient(0deg, rgba(245,246,247,1) 25%, rgba(0,18,32,1) 60%);
+}
+.flips{
+    background: rgb(0,18,32);
+background: linear-gradient(0deg, rgba(0,18,32,1) 45%, rgba(245,246,247,1) 100%);
+}
